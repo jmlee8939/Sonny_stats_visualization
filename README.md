@@ -1,4 +1,4 @@
-[# Sonny_stats_visualization
+# Sonny_stats_visualization
 
 
 by jaemini_man <br>
@@ -11,7 +11,7 @@ Crawling from [Whoscored.com](https://1xbet.whoscored.com/). <br>
 Details in [here](https://github.com/jmlee8939/whoscored_crawling).
 
 ## goals&assists / Rating plot
-Details in "[seasonal performance](seasonal peformance.ipynb)"
+Details in "[seasonal performance](seasonal_performance.ipynb)"
 ### All players in Premier League 1920 season
 ![](<son_19_20_PL.png>)
 
