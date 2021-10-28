@@ -20,6 +20,5 @@ Details in "[seasonal performance](seasonal peformance.ipynb)"
 
 ## Forward ranking
 Details in "[player_ranking.ipynb](player_ranking.ipynb)"
-
 ![](<Forward_player_rank.png>)
 
